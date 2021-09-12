@@ -9,7 +9,7 @@ I also like games, series, movies, books, cooking, exercising and etc.
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992abcdef)](https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992abcdef)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992abcdef)](https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioluiz.arruda@gmail.com)](mailto:marioluiz.arruda@gmail.com)
 
 <!--
