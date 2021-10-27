@@ -5,11 +5,11 @@ My name is Mario Luiz, I'm 29 years old, and I'm from Brazil🇧🇷, graduated 
 
 I really enjoy learning, studying and practicing new technologies.
 
-I also like games, series, movies, books, cooking, exercising and etc.
+I also like games, series, movies, books, cooking, hiking and etc.
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992abcdef)](https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992-dev)](https://www.linkedin.com/in/mario-luiz-oliveira-de-arruda-1992-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioluiz.arruda@gmail.com)](mailto:marioluiz.arruda@gmail.com)
 
 <!--
