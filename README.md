@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Folks!
-My name is Mario Luiz, I'm 29 years old, and I'm from Brazil🇧🇷, graduated in Internet Systems at the Federal Institute of Mato Grosso do Sul.
+My name is Mario Luiz, I'm 30 years old, and I'm from Brazil🇧🇷, graduated in Internet Systems at the Federal Institute of Mato Grosso do Sul.
 
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MarioLuiz&show_icons=true&theme=gotham&bg_color=000"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLuiz&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 
