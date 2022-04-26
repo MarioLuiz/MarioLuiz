@@ -5,7 +5,7 @@ My name is Mario Luiz, I'm 30 years old, and I'm from Brazil🇧🇷, graduated 
 
 I really enjoy learning, studying and practicing new technologies.
 
-I also like games, series, movies, books, cooking, hiking and etc.
+I also like games, series, movies, books, cooking, hiking and exercise myself.
 
 Would you like to find me?
 
