@@ -1,6 +1,6 @@
 # Hello, Folks! Welcome to my GitHub Profile!!
 
-My name is Mario Luiz, I'm 31 years old, and I'm from Brazil🇧🇷, graduate in Internet Systems at the Federal Institute of Mato Grosso do Sul.
+My name is Mario Luiz, I'm 33 years old, and I'm from Brazil🇧🇷, graduate in Internet Systems at the Federal Institute of Mato Grosso do Sul.
 
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MarioLuiz&show_icons=true&theme=gotham&bg_color=000"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLuiz&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 
